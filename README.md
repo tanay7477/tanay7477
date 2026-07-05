@@ -1,72 +1,125 @@
 <div align="center">
-<h1>Tanay Vyas</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=600&lines=full-stack+developer;react+%2B+node.js;shipping+code+daily;always+learning+%2F%2F+never+static" alt="Typing SVG" />
+<h1>Hi, I'm Tanay Vyas 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2ECC71&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node.js;Building+in+Public+%F0%9F%9A%80;Shipping+Code+Daily" alt="Typing SVG" />
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=tanay7477&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=tanay7477&color=2ECC71&style=flat-square&label=PROFILE+VIEWS)
 
 
 
 </div>
 
+<p align="center">
+  I'm a student developer learning full-stack web development, currently focused on the 
+  React + Node.js ecosystem. I build real, working projects instead of just tutorials — 
+  and I push code daily to keep improving.
+</p>
+
 <br/>
 
-```bash
-> status: building in public
-> currently: learning backend architecture
-> mode: ship_daily.sh --no-excuses
+## 🚀 Featured Project
 
-> ls featured-projects/
-Aura Beauty OS
-A full-stack "AI-first" salon booking platform — combines a 3D holographic assistant (Three.js),
-face-diagnostics scanner, budget optimizer, and live location mapping (Leaflet) into one
+### [Aura Beauty OS](https://github.com/tanay7477/salon-website-for-superxgen)
+A full-stack "AI-first" salon booking platform — combines a 3D holographic assistant (Three.js), 
+face-diagnostics scanner, budget optimizer, and live location mapping (Leaflet) into one 
 salon marketplace experience.
-Live demo: salon-website-for-superxgen-main.vercel.app
-Stack: React 19 · Vite · Three.js/WebGL · Leaflet · Custom CSS
-�
+
+**Live demo:** [salon-website-for-superxgen-main.vercel.app](https://salon-website-for-superxgen-main.vercel.app)  
+**Stack:** React 19 · Vite · Three.js/WebGL · Leaflet · Custom CSS
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Languages**  
 
 
-> cat tech_stack.json
-Load image
-Languages
-�
-�
-�
-Load image
-Load image
-Load image
-Frameworks & Libraries
-�
-�
-�
-Load image
-Load image
-Load image
-Tools
-�
-�
-�
-Load image
-Load image
-�
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-> ./run_diagnostics.sh
 
-┌─────────────────────┬─────────────────────┬─────────────────────┐
-│  TOTAL CONTRIBUTIONS │   CURRENT STREAK 🔥  │   LONGEST STREAK 🏆  │
-│         16           │        3 days        │        3 days        │
-└─────────────────────┴─────────────────────┴─────────────────────┘
 
-> tail -f learning.log
-[LEARNING]  backend architecture & REST API design
-[LEARNING]  deployment workflows (Vercel, CI/CD basics)
-[IMPROVING] writing cleaner, maintainable commit history
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-> cat contact.sh
 
-> echo "thanks for stopping by."
-thanks for stopping by.
-$ _
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+
+
+**Frameworks & Libraries**  
+
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+
+
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+
+
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+
+
+**Tools**  
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+
+
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+
+
+<br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+| 🔥 Current Streak | 📈 Total Contributions | 🏆 Longest Streak |
+|:---:|:---:|:---:|
+| 3 days | 16 | 3 days |
+
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanay7477/tanay7477/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanay7477/tanay7477/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tanay7477/tanay7477/output/github-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+## 🎯 Currently Learning
+- Backend architecture & REST API design
+- Deployment workflows (Vercel, CI/CD basics)
+- Writing cleaner, more maintainable commit history
+
+<br/>
+
+## 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/tanay-vyas-531a79335" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tanayvyas80@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<br/>
+
+<p align="center"><i>⭐️ Consistently pushing code, one day at a time.</i></p>
