@@ -17,3 +17,56 @@
 > status: building in public
 > currently: learning backend architecture
 > mode: ship_daily.sh --no-excuses
+
+> ls featured-projects/
+Aura Beauty OS
+A full-stack "AI-first" salon booking platform — combines a 3D holographic assistant (Three.js),
+face-diagnostics scanner, budget optimizer, and live location mapping (Leaflet) into one
+salon marketplace experience.
+Live demo: salon-website-for-superxgen-main.vercel.app
+Stack: React 19 · Vite · Three.js/WebGL · Leaflet · Custom CSS
+�
+
+
+> cat tech_stack.json
+Load image
+Languages
+�
+�
+�
+Load image
+Load image
+Load image
+Frameworks & Libraries
+�
+�
+�
+Load image
+Load image
+Load image
+Tools
+�
+�
+�
+Load image
+Load image
+�
+
+
+> ./run_diagnostics.sh
+
+┌─────────────────────┬─────────────────────┬─────────────────────┐
+│  TOTAL CONTRIBUTIONS │   CURRENT STREAK 🔥  │   LONGEST STREAK 🏆  │
+│         16           │        3 days        │        3 days        │
+└─────────────────────┴─────────────────────┴─────────────────────┘
+
+> tail -f learning.log
+[LEARNING]  backend architecture & REST API design
+[LEARNING]  deployment workflows (Vercel, CI/CD basics)
+[IMPROVING] writing cleaner, maintainable commit history
+
+> cat contact.sh
+
+> echo "thanks for stopping by."
+thanks for stopping by.
+$ _
