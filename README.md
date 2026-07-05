@@ -1,6 +1,6 @@
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,100:1a1a2e&height=180&section=header&text=Tanay%20Vyas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-<h1>Hi, I'm Tanay Vyas 👋</h1>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2ECC71&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Node.js;Building+in+Public+%F0%9F%9A%80;Shipping+Code+Daily" alt="Typing SVG" />
 
@@ -90,6 +90,10 @@ salon marketplace experience.
 ## 📊 GitHub Activity
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanay7477&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=2ECC71&icon_color=2ECC71" height="165" alt="GitHub stats" />
+</div>
+
+<div align="center">
 
 | 🔥 Current Streak | 📈 Total Contributions | 🏆 Longest Streak |
 |:---:|:---:|:---:|
@@ -123,3 +127,5 @@ salon marketplace experience.
 <br/>
 
 <p align="center"><i>⭐️ Consistently pushing code, one day at a time.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:2ECC71&height=100&section=footer" />
